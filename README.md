@@ -10,9 +10,9 @@ These instructions will get you a copy of the project up and running on your loc
 
 Make sure you have a text editor which you'll use to make edits on the html, css and javascript file.
 The following are some of the links that will help you get a text editor of your choice.
-https://www.sublimetext.com/
-http://brackets.io/
-https://atom.io/
+* https://www.sublimetext.com/
+* http://brackets.io/
+* https://atom.io/
 
 Make sure you have git installed on your device. Every modification should be done using the command line.
 Use this [link](https://git-scm.com/downloads) to download git on your device
